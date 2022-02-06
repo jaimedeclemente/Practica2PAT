@@ -15,3 +15,5 @@ Pinchando en **Activos**, llegará a una explicación de los diferentes sectores
 Pulsando en **Cotización** accederá al desempeño en bolsa de la empresa en tiempo real gracias a un *iframe* de una página de análisis bursátil.
 
 *Cabe destacar, para facilitar la navegación, que siempre que se encuentre en cualquier ventana diferente a la principal podrá volver a esta última pulsando en el logo existente en el *header* de la página correspondiente.*
+
+**PD:** *El archivo que sería la página principal de la web se llama index.html*
